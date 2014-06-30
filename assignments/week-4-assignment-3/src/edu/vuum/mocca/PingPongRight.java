@@ -157,7 +157,7 @@ public class PingPongRight {
 	 * @throws InterruptedException
 	 */
 	public static void main(String[] args) throws InterruptedException {
-		process("Ready...Set...Go!", "Ping!  ", " Pong! ", "Done!",
+		process("Ready...Set...Go!", "Ping! ", "Pong! ", "Done!",
 				mMaxIterations);
 	}
 }
